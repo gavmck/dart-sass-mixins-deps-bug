@@ -1,0 +1,5 @@
+$container: 100%;
+
+@mixin width {
+  width: $container / 2;
+}

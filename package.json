@@ -1,0 +1,23 @@
+{
+  "name": "dart-sass-mixins-deps-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --load-path=dependencies --quiet-deps styles.scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavmck/dart-sass-mixins-deps-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gavmck/dart-sass-mixins-deps-bug/issues"
+  },
+  "homepage": "https://github.com/gavmck/dart-sass-mixins-deps-bug#readme",
+  "devDependencies": {
+    "sass": "1.43.5"
+  }
+}
